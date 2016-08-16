@@ -1,0 +1,3 @@
+[submodule "Assets/NodeEditor"]
+	path = Assets/NodeEditor
+	url = https://github.com/himeiyuna/Node_Editor.git
